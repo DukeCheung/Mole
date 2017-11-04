@@ -1,0 +1,130 @@
+body{
+	font-size: 20px;
+	font-family: "Century Gothic", Futura, Verdana, sans-serif;
+	text-align: center;
+}
+
+#_title{
+	font-size: 25pt;
+	font-weight: lighter;
+}
+
+#ruel{
+	width: 700px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+#control{
+	width: 180px;
+	height: 18px;
+	font-size: 10pt;
+	background-color: white;
+	text-align: center;
+	margin: 0;
+	float: left;
+	margin-left: 480px;
+	margin-top: 2px;
+}
+
+#timer{
+	width: 180px;
+	float: left;
+}
+#time{
+	margin-left: 70px;
+	float: left;
+}
+#number{
+	width: 40px;
+	height: 17px;
+	font-size: 12pt;
+	text-align: left;
+	float: left;
+	margin-left: 3px;
+	margin-top: 2px;
+	box-shadow: 1px 1px 2px;
+}
+
+#over{
+	width: 130px;
+	height: 18px;
+	font-size: 10pt;
+	text-align: left;
+	margin: 0;
+	margin-left: 490px;
+	margin-top: 5px;
+	box-shadow: 1px 1px 2px;
+	float: left;
+}
+#score{
+	width: 180px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 37px;
+}
+#_score{
+	margin-left: 62px;
+	float: left;
+}
+#totalnumber{
+	width: 40px;
+	height: 17px;
+	font-size: 12pt;
+	text-align: left;
+	float: left;
+	margin-left: 3px;
+	margin-top: 2px;
+	box-shadow: 1px 1px 2px;
+}
+#_table{
+	width: 320px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 100px;
+	border-top: 1pt solid black;
+	border-bottom: 1pt solid black;
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+ul{
+	margin-top: 8px;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding: 0;
+}
+#_table li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 4px;
+	margin-right: 4px;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	
+	cursor: pointer;
+}
+
+#intr{
+	font-size: 15px;
+	font-family: "Courier New", sans-serif;
+	margin-top: 40px;
+	text-align: left;
+	margin-left: 260px;
+	font-weight: bolder;
+}
+#introduction{
+	font-size: 15px;
+	font-family: "Courier New", sans-serif;
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 260px;
+}
+.list{
+	box-shadow: 0 0 1pt 0 inset;
+}
+.list1{
+	box-shadow: 0px 0px 0 6px blue inset;
+}
+
+     
